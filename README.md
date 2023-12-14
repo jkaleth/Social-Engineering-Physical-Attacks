@@ -41,14 +41,9 @@ Launch in Kali Linux
 $ setoolkit
 ```
 
+### BeEF
+Browser exploitation framework- cross site scripting
 
-
-
-### Tables
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
 
 
 
